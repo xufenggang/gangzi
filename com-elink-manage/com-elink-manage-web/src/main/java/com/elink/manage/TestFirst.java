@@ -1,5 +1,5 @@
 package com.elink.manage;
 
-public class TestFirst  {
+public class TestFirst {
 
 }
